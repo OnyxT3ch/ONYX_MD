@@ -156,7 +156,10 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/message/263780858655) 
+WhatsApp:
+    <br>
+    <a
+    href='https://wa.me/message/263780858655' target="_blank"><img alt='WhatsApp' src='https://img.shields.io/badge/-contact me-UFO green?style=for-the-badge&logo=Whatsapp&logoColor=white'/></a>
 
 If the bot goes offline 
 Just type cd and the bot name 
