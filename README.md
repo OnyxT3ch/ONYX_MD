@@ -18,7 +18,9 @@ If you clone my repo or use as base bot, dont forget to give credits. ONYX TECH 
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
 Fork the repl to get pair code for whatsApp
-https://replit.com/@haotak/DevilCat-1?v=1
+      <br>
+      <a
+href='https://replit.com/@haotak/DevilCat-1?v=1' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-SESSION_ID-red?style=for-the-badge&logo=replit&logoColor=blue'/></a>
 
 **DEPLOYMENT PROCESS**
 ### DEPLOY ON REPLIT
