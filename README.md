@@ -1,19 +1,19 @@
-<h1 align="center"> Devil_Cat-V2.0 </h1>
+<h1 align="center"> ONYX MD BOT </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=353839&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ONYX+MD;WHATSAPP+BUG+BOT;CREATED+BY+ONYX+TECH;RELEASED+01.09.24" alt="Typing SVG" /></a>
   </p>
 
-<img src= "https://telegra.ph/file/b94ebc14cfb758319e9f0.jpg" />
+<img src= "https://i.imgur.com/34JgGDw.jpeg" />
 </p>
 
-Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
+ONYX MD BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers😜. Use wisely (rule the world😂) 
 
-If you clone my repo or use as base bot, dont forget to give credits. Lord No Name Rulez😶
+If you clone my repo or use as base bot, dont forget to give credits. ONYX TECH ROCKS✌️
 
-1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/OnyxT3ch/ONYX_MD/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
    
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
@@ -24,7 +24,7 @@ https://replit.com/@haotak/DevilCat-1?v=1
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/OnyxT3ch/ONYX_MD' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=blue'/></a>
 
 
 ### DEPLOYMENT ON TERMUX
@@ -63,7 +63,7 @@ git clone  (copy and paste your forked repo not mine to save your changes)
 
 7. After that type: 
 
-cd Devil_Cat-V2.0
+cd ONYX_MD
 
 8. after that type:
 
@@ -98,7 +98,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Create a new app at [Heroku](https://id.heroku.com/login)
 * Add Build packs
 * Connect your heroku with your github
-* Locate Devil_Cat-V2.0
+* Locate ONYX_MD
 * Now deploy.
 * Start the Worker
 * Enjoy the Bot.
@@ -116,7 +116,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 </br>
 
-#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Devil_Cat-V2.0](https://github.com/Anime-King01/Devil_Cat-V2.0) ON ANY TERMINAL
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [ONYX_MD](https://github.com/OnyxT3ch/ONYX_MD) ON ANY TERMINAL
 ```
 sudo apt -y update && sudo apt -y upgrade
 ```
@@ -139,10 +139,10 @@ sudo npm install -g yarn
 sudo yarn global add pm2
 ```
 ```
-git clone https://github.com/type-your-username-here/Devil_Cat-V2.0
+git clone https://github.com/type-your-username-here/ONYX_MD
 ```
 ```
-cd Devil_Cat-V2.0
+cd ONYX_MD
 ```
 ```
 yarn install
@@ -154,7 +154,7 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/message/2DAGP33CWIDHD1) 
+WhatsApp: (https://wa.me/message/263780858655) 
 
 If the bot goes offline 
 Just type cd and the bot name 
@@ -163,12 +163,12 @@ It will come online
 
 
 
-`Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
+`Please ONYX_MD BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to ONYX MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
@@ -181,16 +181,16 @@ Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new featur
 
 ## License
 
-The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot ONYX MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
+Enjoy the diverse features of the WhatsApp Bot ONYX Md to enhance your conversations and make your WhatsApp experience more interesting!
 
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![LORD NO NAME](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![ONYX TECH](https://github.com/OnyxT3ch.png?size=150)](https://github.com/OnyxT3ch) |
 |----|
-| [  LORD NO NAME ](https://github.com/Anime-King01) |
+| [  ONYX TECH ](https://github.com/OnyxT3ch) |
 |  Developer |
 
   </div>
